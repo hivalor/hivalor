@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akbar Khan aka VALOR
 - 👀 I’m interested in Gaming, Streaming and Programming
-- 🌱 I’m currently learning ... C,JavaScript
+- 🌱 I’m currently learning ... C,JavaScript,HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
