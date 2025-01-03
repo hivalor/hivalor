@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akbar Khan aka VALOR
+- 👋 Hi, I’m Akbar Khan aka Zuko
 - 👀 I’m interested in Gaming, Streaming and Programming
 - 🌱 I’m currently learning ... C,JavaScript,HTML
 - 💞️ I’m looking to collaborate on ...
